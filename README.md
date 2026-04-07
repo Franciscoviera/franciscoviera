@@ -1,4 +1,5 @@
 Hola, soy Francisco
+
 Soy estudiante avanzado de Ingeniería en Sistemas, con interés en Inteligencia Artificial y construcción de productos que resuelven problemas reales.
 
 Tecnologías que manejo
