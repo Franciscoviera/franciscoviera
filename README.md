@@ -8,8 +8,6 @@ Java C/C++ SQL
 
 Proyectos
 
-Gestion de Aulas https://github.com/SeguOostdijk/Gestion-de-Aulas
-
 Gestion de Notebooks https://github.com/SeguOostdijk/gestion-de-notebooks
 
 
